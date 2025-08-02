@@ -1,12 +1,16 @@
 NOₓ Emission Forecasting using RSTA-LSTM Deep Learning Model
 
+
 Project Overview :
 
 This project implements a deep learning-based time series forecasting model to estimate NOₓ (Nitrogen Oxide) emissions using a hybrid Recurrent Spatiotemporal Attention Long Short-Term Memory (RSTA-LSTM)
 architecture. The aim is to provide a precise, scalable, and interpretable solution for air quality modeling, specifically focusing on predicting nitrous oxide emissions from multivariate input features.
 
 
-For detailed theoretical background and scientific validation, refer to our published Research Paper on Greenhouse Gas Prediction using LSTM :
+Publication :
+
+This work has been published in the International Journal of Research Publication and Reviews, .
+Read the Official Publication - 
 
 
 Key Features :
@@ -71,3 +75,18 @@ Future Improvements :
 3. Deploy model using Flask/Streamlit for public dashboards
 4. Use hybrid models: CNN + LSTM, Transformer-based variants
 5. Incorporate explainability using SHAP or attention heatmaps
+
+
+Acknowledgments :
+
+This project was developed under the guidance and support of Bhilai Institute of Technology, Raipur.
+Project Mentors & Reviewers Team - Prof.Aparna Pandey , S Shubham , Rishi Nirmalkar , Pranjal Shrivas , Divyanshi Sharma
+
+
+Contact :
+
+For any queries, suggestions, or collaboration opportunities, feel free to connect -
+Email - sshubham22062003@gmail.com
+LinkedIn - https://www.linkedin.com/in/s-shubham-317359229
+
+
