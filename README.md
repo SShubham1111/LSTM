@@ -10,7 +10,8 @@ architecture. The aim is to provide a precise, scalable, and interpretable solut
 Publication :
 
 This work has been published in the International Journal of Research Publication and Reviews, .
-Read the Official Publication - 
+Read the Official Publication - https://ijrpr.com/uploads/V6ISSUE5/IJRPR46528.pdf
+Certification - https://ijrpr.com/certificate/download.php?paper_id=31548 
 
 
 Key Features :
