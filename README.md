@@ -58,6 +58,7 @@ Upon training completion, the model -
    ii. RMSE
    iii. MAE
 3. Generates a plot comparing actual vs predicted NOx emissions.
+<img width="1919" height="980" alt="Screenshot 2025-08-02 203138" src="https://github.com/user-attachments/assets/789fc5b7-b753-4887-997e-0e568f0860f0" />
 
 
 Sample Output :
